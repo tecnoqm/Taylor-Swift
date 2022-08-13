@@ -1,0 +1,43 @@
+<HTML>
+<title> The Weeknd </title>
+<body background= "weekndgif.webp">
+<body>
+<h1> The Weeknd, datos y curiosidades </h1>
+<P> Hoy vamos a conocer algunos datos curiosos sobre The Weeknd, el artista del que todos hablan  </P>
+<BR>
+<img src="trilogy.jpg"style= width:600px height:600px>
+<h1> Su verdadero nombre </h1>
+<P>1-El verdadero nombre de The Weeknd es Abel Makkonen Tesfaye, tiene 32 años, nació un 16 de febrero de 1990 en Toronto, Canadá.</P>
+<BR>
+<img src="theweekndlentes.jpg"style= width:300px height:300px>
+<h1> Sus inspiraciones </h1>
+2-The Weeknd ha reconocido que Michael Jackson y Prince son su mayor inspiración en la música. </P>
+<BR>
+<img src="67510.jpg"style= width:900px height:900px>
+<h1> El origen del nombre artístico </h1>
+<P> 3-The Weeknd, es el nombre artístico de Abel Tesfaye, y según se sabe proviene de cuando a los 17 años se escapó de su casa "un fin de semana" pero nunca volvió.</P>
+<BR>
+<img src="Drake_Bluesfest.jpg"style= width:450px height:450px>
+<h1> El apoyo de Drake </h1>
+<P> 4-Cuando The Weeknd aún era desconocido en la industria musical, el rapero Drake le brindó todo su apoyo. </P>
+<BR>
+<img src="ihope.jpg"style= width:450px height:450px>
+<h1> Un idioma extraño </h1>
+<P> 5-The Weeknd habla el idioma amhárico con fluidez, debido a que es la lengua materna de su familia proveniente de Etiopía. El amhárico también se habla fuera de Etiopía, se estima que unas 2.7 millones de personas lo usan diariamente en países como Egipto, Israel y Suecia. </P>
+<BR>
+<img src="2015.jpg" style = width:700px height:700px>
+<h1> Resumen de su 2011 como artista nuevo </h1>
+<BR>
+<img src="kid.jpg"style= width:450px height:450px>
+<P>6-Durante el 2011 lanzó tres mixtapes de nueve pistas, titulados House of Balloons, Thursday y Echoes of Silence, que fueron muy aclamados por la crítica. En el siguiente año, lanzó su primer trabajo recopilatorio titulado Trilogy, con treinta pistas remasterizadas de sus mixtapes y tres canciones más. Fue lanzado al mercado por la compañías discográficas Republic Records y XO.</P>
+
+<h1> 1990-2009 </h1>
+<BR>
+<img src="rol.jpg"style= width:600px height:600px>
+<P> Durante su juventud, su madre trabajó en varios empleos para aportar al sustento de la familia, a menudo como enfermera y cáterin, mientras asistía a la escuela nocturna. ? Describiendo su adolescencia como «una historia similar a la de KIDS, pero sin el sida», robó el supermercado local con su amigo de la escuela secundaria, y comenzó a usar MDMA, Xanax, cocaína, psilocibina y ketamina. Su nombre artístico se inspiró en su deserción escolar, adoptando el nombre The Weeknd después de que él y un amigo «dejaran la escuela un fin de semana y nunca regresaran», aunque el productor Jeremy Rose afirma que el nombre fue idea suya.</P>
+<h1> 2010-11: inicios de su carrera y mixtapes </h1>
+<BR>
+<img src="the-weeknd-2011.jpg"style= width:600px height:600px>
+<P> Tesfaye se reunió con el productor Jeremy Rose, quien tuvo una idea para un oscuro proyecto musical de R&B llamado "The Weeknd". Después de intentar lanzar la idea con el músico Curtis Santiago, Rose compuso uno de sus temas instrumentales para Tesfaye, quien puso un estilo libre sobre él, y comenzaron a trabajar en un álbum. Produjo tres canciones «What You Need», «Loft Music», y «The Morning», y otros por los que Tesfaye criticó fuertemente a Rose, debido a su decisión de desecharlos. Rose dejó que Tesfaye mantuviera las pistas que había producido bajo la condición de que, en última instancia, se le acreditara en ellos.
+
+Sin embargo, en diciembre de 2010, Tesfaye subió «What You Need», «Loft Music», y «The Morning» a YouTube bajo el nombre de "The Weeknd",? aunque su identidad fue inicialmente desconocida. El 21 de marzo de 2011, Tesfaye lanzó de forma gratuita a través de su sitio web, un mixtape de nueve pistas titulado «House of Balloons», con la producción de Illangelo y Doc McKinney. En julio, Tesfaye emprendió una gira y realizó su primera actuación en el Mod Club de Toronto. En ese mismo mes, el tercer mixtape de The Weeknd, titulado «Echoes of Silence», fue lanzado el 21 de diciembre de 2011 Desde este lanzamiento, los tres mixtapes fueron colectivamente conocidos como «Balloons Trilogy»,? cada uno recibió la aclamación crítica y el creciente apoyo de los fanes de Tesfaye. </P>
